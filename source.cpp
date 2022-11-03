@@ -15,7 +15,7 @@ int main()
 	element *e = new element[36700];
 	HashChain h(6997);
 	
-	cout << "Reading and loading data into hash table...." << endl;
+	cout << "Reading and loading data into hash table..." << endl;
 	infile.open("dictionary.txt");
 	if (!infile.is_open())
 	{
