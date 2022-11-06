@@ -10,7 +10,7 @@ A hash function generates new values according to a mathematical hashing algorit
 Hashing is relevant to -- but not limited to -- data indexing and retrieval, digital signatures, cybersecurity and cryptography. 
 
 # What is hashing used for?
-Data retrieval
+# Data retrieval
 
 Hashing uses functions or algorithms to map object data to a representative integer value. A hash can then be used to narrow down searches when locating these items on that object data map.
 
